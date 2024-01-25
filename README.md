@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @veritasia
+- 👋 Hi, I’m Rita VESIA
 - 👀 I’m interested in ... game dev and machine learning
 - 🌱 I’m currently learning ... the universe
 - 💞️ I’m looking to collaborate on ... video games and performing arts!
